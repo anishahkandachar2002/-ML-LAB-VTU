@@ -3,7 +3,9 @@ Machine Learning Lab Program  FOR 6th sem prescribed by VTU for AI and ML Depart
 
 
 Special Thank to our teachers
+
 Dr Anasuya N J ,HOD, CSE(AI & ML),DBIT
+
 Sanjay ,CSE(AI & Ml),DBIT
 
 Student:
